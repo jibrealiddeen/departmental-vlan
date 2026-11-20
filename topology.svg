@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="762" height="485" viewBox="0 0 762 485" role="img" aria-label="Topology: Departmental VLAN Network">
+<title>Topology: Departmental VLAN Network</title>
+<style>
+svg{color-scheme:light dark}
+.bg{fill:Canvas}
+.ln{stroke:CanvasText;stroke-opacity:.55;stroke-width:1.5}
+.ln.down{stroke-dasharray:5 4}
+.dev{fill:Canvas;stroke:CanvasText;stroke-width:1.5}
+.t{fill:CanvasText;font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",sans-serif}
+.h{font-size:15px;font-weight:700}
+.lbl{font-size:13px;font-weight:600}
+.sub{font-size:10px;opacity:.65;letter-spacing:.06em}
+.port{font-size:9.5px;opacity:.85;paint-order:stroke;stroke:Canvas;stroke-width:3px;stroke-linejoin:round}
+</style>
+<rect class="bg" fill="none" x="0" y="0" width="762" height="485"/>
+<text class="t h" x="48" y="40">Departmental VLAN Network</text>
+<line class="ln" stroke="currentColor" x1="495.6" y1="267.9" x2="286.1" y2="265.7"/>
+<line class="ln" stroke="currentColor" x1="116.1" y1="115.0" x2="286.1" y2="265.7"/>
+<line class="ln" stroke="currentColor" x1="286.1" y1="265.7" x2="114.0" y2="261.5"/>
+<line class="ln" stroke="currentColor" x1="286.1" y1="265.7" x2="118.3" y2="400.4"/>
+<line class="ln" stroke="currentColor" x1="495.6" y1="267.9" x2="647.4" y2="268.9"/>
+<line class="ln" stroke="currentColor" x1="645.3" y1="132.1" x2="495.6" y2="267.9"/>
+<line class="ln" stroke="currentColor" x1="495.6" y1="267.9" x2="644.2" y2="413.3"/>
+<text class="t port" text-anchor="middle" x="413.8" y="270.0">Fa0/1</text>
+<text class="t port" text-anchor="middle" x="367.9" y="269.6">Fa0/1</text>
+<text class="t port" text-anchor="middle" x="177.4" y="172.3">Eth0</text>
+<text class="t port" text-anchor="middle" x="224.9" y="214.4">Fa0/2</text>
+<text class="t port" text-anchor="middle" x="213.8" y="266.9">Fa0/3</text>
+<text class="t port" text-anchor="middle" x="186.3" y="266.3">Eth0</text>
+<text class="t port" text-anchor="middle" x="222.3" y="320.0">Fa0/4</text>
+<text class="t port" text-anchor="middle" x="182.1" y="352.2">Eth0</text>
+<text class="t port" text-anchor="middle" x="559.4" y="271.3">Fa0/2</text>
+<text class="t port" text-anchor="middle" x="583.7" y="271.5">Eth0</text>
+<text class="t port" text-anchor="middle" x="584.7" y="190.1">Eth0</text>
+<text class="t port" text-anchor="middle" x="556.3" y="215.9">Fa0/3</text>
+<text class="t port" text-anchor="middle" x="554.1" y="328.1">Fa0/4</text>
+<text class="t port" text-anchor="middle" x="585.7" y="359.0">Eth0</text>
+<rect class="dev" fill="none" stroke="currentColor" rx="8" x="220.1" y="242.7" width="132" height="46"/>
+<text class="t lbl" text-anchor="middle" x="286.1" y="263.7">S1</text>
+<text class="t sub" text-anchor="middle" x="286.1" y="278.7">SWITCH</text>
+<rect class="dev" fill="none" stroke="currentColor" rx="8" x="429.6" y="244.9" width="132" height="46"/>
+<text class="t lbl" text-anchor="middle" x="495.6" y="265.9">S2</text>
+<text class="t sub" text-anchor="middle" x="495.6" y="280.9">SWITCH</text>
+<rect class="dev" fill="none" stroke="currentColor" rx="8" x="50.1" y="92.0" width="132" height="46"/>
+<text class="t lbl" text-anchor="middle" x="116.1" y="113.0">PC-1</text>
+<text class="t sub" text-anchor="middle" x="116.1" y="128.0">PC</text>
+<rect class="dev" fill="none" stroke="currentColor" rx="8" x="48.0" y="238.5" width="132" height="46"/>
+<text class="t lbl" text-anchor="middle" x="114.0" y="259.5">PC-2</text>
+<text class="t sub" text-anchor="middle" x="114.0" y="274.5">PC</text>
+<rect class="dev" fill="none" stroke="currentColor" rx="8" x="52.3" y="377.4" width="132" height="46"/>
+<text class="t lbl" text-anchor="middle" x="118.3" y="398.4">PC-3</text>
+<text class="t sub" text-anchor="middle" x="118.3" y="413.4">PC</text>
+<rect class="dev" fill="none" stroke="currentColor" rx="8" x="579.3" y="109.1" width="132" height="46"/>
+<text class="t lbl" text-anchor="middle" x="645.3" y="130.1">PC-4</text>
+<text class="t sub" text-anchor="middle" x="645.3" y="145.1">PC</text>
+<rect class="dev" fill="none" stroke="currentColor" rx="8" x="581.4" y="245.9" width="132" height="46"/>
+<text class="t lbl" text-anchor="middle" x="647.4" y="266.9">PC-5</text>
+<text class="t sub" text-anchor="middle" x="647.4" y="281.9">PC</text>
+<rect class="dev" fill="none" stroke="currentColor" rx="8" x="578.2" y="390.3" width="132" height="46"/>
+<text class="t lbl" text-anchor="middle" x="644.2" y="411.3">PC-6</text>
+<text class="t sub" text-anchor="middle" x="644.2" y="426.3">PC</text>
+</svg>
